@@ -35,7 +35,7 @@
 (add-hook 'after-init-hook #'sml/setup)
 
 ;; enable monokai theme
-(load-theme 'tronesque t)
+(load-theme 'monokai t)
 
 ;; disable scroll bar
 (scroll-bar-mode -1)
