@@ -1,3 +1,24 @@
+(setq default-frame-alist '((font . "Monospace-11")))
+
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(safe-local-variable-values (quote ((encoding . utf-8)))))
+
+(desktop-save-mode 1)
+
+(server-start)
+
+(require 'fill-column-indicator)
+
+(setq fci-rule-column 80)
+
+(add-hook 'before-save-hook 'delete-trailing-whitespace)
+
+(add-hook 'ruby-mode-hook 'robe-mode)
+
 (when (fboundp 'tool-bar-mode)
   (tool-bar-mode -1))
 
@@ -29,10 +50,9 @@
                                                   "%b"))))
 
 (require 'smart-mode-line)
-(setq sml/no-confirm-load-theme t)
-;; delegate theming to the currently active theme
-(setq sml/theme nil)
-(add-hook 'after-init-hook #'sml/setup)
+(setq sml/theme 'dark)
+
+(sml/setup)
 
 ;; enable monokai theme
 (load-theme 'monokai t)
