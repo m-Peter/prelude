@@ -35,7 +35,7 @@
       scroll-preserve-screen-position 1)
 
 ;; mode line settings
-(line-number-mode t)
+(global-linum-mode t)
 (column-number-mode t)
 (size-indication-mode t)
 

@@ -1,0 +1,327 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Jul 29 16:32:58 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21944 54794 535749 170000) (desktop . "206") "mpeter@mpeter.ws.skroutz.gr" nil nil ((((font-backend xft x) (font-parameter . "Monospace-11") (font . "-unknown-DejaVu Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 1) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#F8F8F2") (background-color . "#272822") (mouse-color . "#F8F8F2") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground) (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (client . nowait) (environment "_=/usr/bin/emacsclient" "COLORTERM=xfce4-terminal" "XAUTHORITY=/home/mpeter/.Xauthority" "XDG_RUNTIME_DIR=/run/user/1000" "DISPLAY=:1.0" "WINDOWPATH=1" "LOGNAME=mpeter" "LANGUAGE=en_US:en" "HOME=/home/mpeter" "XDG_SEAT=seat0" "SHLVL=2" "RBENV_SHELL=bash" "LANG=en_US.UTF-8" "JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk-amd64" "PWD=/home/mpeter" "MAIL=/var/mail/mpeter" "PATH=/home/mpeter/.rbenv/bin:/home/mpeter/.gem/ruby/2.1.0/bin:/home/mpeter/.rbenv/shims:/home/mpeter/.rbenv/bin:/home/mpeter/.rbenv/shims:/home/mpeter/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/local/apache-maven/apache-maven-3.2.5/bin" "MAVEN_OPTS=-Xms256m -Xmx512m" "SSH_AUTH_SOCK=/tmp/ssh-rSytkMYgKHvJ/agent.1788" "LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:" "USER=mpeter" "WINDOWID=27262980" "HUSHLOGIN=FALSE" "TERM=xterm" "SHELL=/bin/bash" "GEM_HOME=/home/mpeter/.gem/ruby/2.1.0" "XDG_SESSION_ID=1" "SSH_AGENT_PID=1789" "XDG_VTNR=1" "GIT_PS1_SHOWDIRTYSTATE=1") (display-type . color) (background-mode . dark) (cursor-color . "#F8F8F2") (frameset--id . "21E9-1EDB-1597-3E50") (frameset--mini t . t) (height . 65) (width . 210) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 18) (icon-name) (visibility . t) (display . ":1.0") (explicit-name)) ((min-height . 8) (min-width . 20) (min-height-ignore . 6) (min-width-ignore . 8) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 144) (min-pixel-width . 180) (min-pixel-height-ignore . 108) (min-pixel-width-ignore . 72) (min-pixel-height-safe . 36) (min-pixel-width-safe . 36)) hc (pixel-width . 1916) (pixel-height . 1160) (total-width . 213) (total-height . 64) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 962) (pixel-height . 1160) (total-width . 107) (total-height . 64) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 962) (pixel-height . 584) (total-width . 107) (total-height . 32) (normal-height . 0.5) (normal-width . 1.0) (buffer "_search_form.html.erb" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1922) (start . 1205))) (leaf (last . t) (pixel-width . 962) (pixel-height . 576) (total-width . 107) (total-height . 32) (normal-height . 0.5) (normal-width . 1.0) (buffer "search_controller.rb" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 284) (start . 1)))) (vc (last . t) (pixel-width . 954) (pixel-height . 1160) (total-width . 106) (total-height . 64) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 954) (pixel-height . 584) (total-width . 106) (total-height . 32) (normal-height . 0.5) (normal-width . 1.0) (buffer "categories_controller.rb" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1633) (start . 864))) (leaf (last . t) (pixel-width . 954) (pixel-height . 576) (total-width . 106) (total-height . 32) (normal-height . 0.5) (normal-width . 1.0) (buffer "otto_freak.js.coffee.erb" (selected) (hscroll . 0) (fringes 9 9 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))))) (((tool-bar-lines . 0) (menu-bar-lines . 0) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (display-type . mono) (background-mode . dark) (cursor-color . "#FFFFEF") (vertical-scroll-bars) (font . "tty") (height . 10) (width . 10) (modeline . t) (unsplittable) (frameset--id . "BBBC-61DE-B270-D09F") (frameset--mini t) (minibuffer . t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 72) (min-pixel-width . 90) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 10) (pixel-height . 9) (total-width . 10) (total-height . 9) (normal-height . 1.0) (normal-width . 1.0) (buffer "score.rb" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1890) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("bi" "offset" "popular?"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/mpeter/Projects/yogurt/app/controllers/search_controller.rb" "/home/mpeter/Projects/yogurt/app/assets/javascripts/rjs/plugins/otto_freak.js.coffee.erb" "/home/mpeter/Projects/yogurt/app/controllers/categories_controller.rb" "/home/mpeter/Projects/yogurt/app/views/application/_search_form.html.erb" "/home/mpeter/Projects/yogurt/app/models/wanderer/keyword.rb" "/home/mpeter/Projects/yogurt/app/models/apdex/search/score.rb" "/home/mpeter/Projects/yogurt/app/controllers/earth/apdex_searches_controller.rb" "/home/mpeter/.conkyrc" "/home/mpeter/.i3/config" "/home/mpeter/.i3/conky-i3.sh" "/home/mpeter/.i3/volume-levels.awk" "/home/mpeter/.i3/config" "/home/mpeter/.conkyrc" "/home/mpeter/Projects/yogurt/.git/MERGE_MSG" "/home/mpeter/.conkyrc" "/home/mpeter/Projects/yogurt/lib/esearch/manager.rb" "/home/mpeter/Projects/yogurt/lib/esearch/paginator.rb" "/home/mpeter/Projects/yogurt/lib/esearch/manager_mixins/paginator.rb" "/home/mpeter/Projects/yogurt/lib/esearch/manager.rb" "/home/mpeter/Projects/yogurt/lib/esearch/manager_mixins/searching.rb" "/home/mpeter/Projects/yogurt/lib/esearch/manager_mixins/proposer.rb" "/home/mpeter/Projects/yogurt/lib/esearch/paginator.rb" "/home/mpeter/Projects/yogurt/lib/esearch/manager_mixins/paginator.rb" "/home/mpeter/Projects/yogurt/lib/esearch/manager.rb" "/home/mpeter/Projects/yogurt/app/controllers/categories_controller.rb" "/home/mpeter/.conkyrc" "/home/mpeter/.i3/conky-i3.sh" "/home/mpeter/.i3/config" "/home/mpeter/.i3/conky-i3.sh" "/home/mpeter/Projects/yogurt/app/models/apdex/search/apdex.rb"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/views/application/_search_form.html.erb"
+  "_search_form.html.erb"
+  'web-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode guru-mode)
+  1922
+  '(1453 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/controllers/categories_controller.rb"
+  "categories_controller.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  1633
+  '(7340 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/assets/javascripts/rjs/plugins/otto_freak.js.coffee.erb"
+  "otto_freak.js.coffee.erb"
+  'web-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode guru-mode)
+  1
+  '(8361 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/controllers/search_controller.rb"
+  "search_controller.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  284
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/controllers/earth/apdex_searches_controller.rb"
+  "apdex_searches_controller.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  368
+  '(197 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/models/apdex/search/apdex.rb"
+  "apdex.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  2018
+  '(1869 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/models/wanderer/keyword.rb"
+  "keyword.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  2973
+  '(20188 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/models/apdex/search/score.rb"
+  "score.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  3470
+  '(1627 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/lib/esearch/manager.rb"
+  "manager.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  1
+  '(6222 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/.conkyrc"
+  ".conkyrc"
+  'fundamental-mode
+  '(prelude-mode global-auto-revert-mode volatile-highlights-mode projectile-mode anzu-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode)
+  862
+  '(1414 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/.i3/config"
+  "config"
+  'conf-space-mode
+  '(prelude-mode global-auto-revert-mode volatile-highlights-mode projectile-mode anzu-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode)
+  5831
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/.i3/conky-i3.sh"
+  "conky-i3.sh"
+  'sh-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode guru-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/.i3/volume-levels.awk"
+  "volume-levels.awk"
+  'awk-mode
+  '(abbrev-mode prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode guru-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/lib/esearch/manager_mixins/searching.rb"
+  "searching.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  4797
+  '(1128 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/lib/esearch/paginator.rb"
+  "paginator.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  360
+  '(360 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/lib/esearch/manager_mixins/paginator.rb"
+  "paginator.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  279
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/lib/esearch/manager_mixins/proposer.rb"
+  "proposer.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/spec/factories/apdex_score.rb"
+  "apdex_score.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  165
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/spec/controllers/earth/apdex_searches_controller_spec.rb"
+  "apdex_searches_controller_spec.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  139
+  '(139 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/spec/factories/search_scores.rb"
+  "search_scores.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/spec/controllers/earth/apdex_search_scores_controller_spec.rb"
+  "apdex_search_scores_controller_spec.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  143
+  '(143 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/spec/factories/apdex_user_metric_daily.rb"
+  "apdex_user_metric_daily.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/controllers/earth/apdex_search_scores_controller.rb"
+  "apdex_search_scores_controller.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  206
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/views/earth/apdex_searches/index.html.erb"
+  "index.html.erb"
+  'web-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode guru-mode)
+  1047
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/views/earth/apdex_searches/_table.html.erb"
+  "_table.html.erb"
+  'web-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode guru-mode)
+  273
+  '(529 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/app/views/earth/apdex_search_scores/_table.html.erb"
+  "_table.html.erb"
+  'web-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode guru-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/Projects/yogurt/lib/scratch/target_analyzer.rb"
+  "target_analyzer.rb"
+  'ruby-mode
+  '(prelude-mode global-auto-revert-mode smartparens-mode volatile-highlights-mode flyspell-mode projectile-mode anzu-mode whitespace-mode eldoc-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode rspec-verifiable-mode guru-mode inf-ruby-minor-mode robe-mode flymake-mode ruby-tools-mode subword-mode)
+  2953
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/mpeter/.Xresources"
+  ".Xresources"
+  'conf-xdefaults-mode
+  '(prelude-mode global-auto-revert-mode volatile-highlights-mode projectile-mode anzu-mode undo-tree-mode diff-hl-mode flx-ido-mode company-mode flycheck-mode)
+  1989
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
