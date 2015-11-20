@@ -132,4 +132,6 @@ by Prelude.")
  ;; greet the use with some useful tip
  (run-at-time 5 nil 'prelude-tip-of-the-day))
 
+(add-hook 'after-init-hook 'global-company-mode)
+
 ;;; init.el ends here
