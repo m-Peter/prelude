@@ -1,4 +1,4 @@
-(setq default-frame-alist '((font . "Monospace-13")))
+(setq default-frame-alist '((font . "Monospace-16")))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
