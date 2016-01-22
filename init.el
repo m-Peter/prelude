@@ -134,4 +134,6 @@ by Prelude.")
 
 (add-hook 'after-init-hook 'global-company-mode)
 
+(global-git-commit-mode t)
+
 ;;; init.el ends here
