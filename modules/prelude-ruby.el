@@ -70,6 +70,7 @@
        (subword-mode +1))
 
      (setq prelude-ruby-mode-hook 'prelude-ruby-mode-defaults)
+     (setq ruby-insert-encoding-magic-comment nil)
 
      (add-hook 'ruby-mode-hook (lambda ()
                                  (run-hooks 'prelude-ruby-mode-hook)))))
